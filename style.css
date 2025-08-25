@@ -59,7 +59,7 @@ h3{
     border-width: 5px;
     border-style: solid;
     display: inline-block;
-    height: 300px;
+    height: 410px;
 }
 .box3{
     border-color: thistle;
@@ -76,6 +76,23 @@ h3{
     height: 410px;
     padding-left: 10px;
     image-rendering: 10px;
+}
+.box5{
+        border-color: thistle;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    height: 410px;
+    padding-left: 10px;
+    image-rendering: 10px;
+
+}
+.contact
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
 }
 
 
